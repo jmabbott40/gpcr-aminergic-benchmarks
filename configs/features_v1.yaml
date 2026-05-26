@@ -1,0 +1,19 @@
+# Feature engineering configuration — aminergic GPCR v1
+#
+# This file mirrors kinase/configs/dataset_v1.yaml's feature block
+# for cross-class consistency.  All parameters are IDENTICAL to the
+# kinase feature config; only `version` is set to "v1" (unchanged).
+#
+# Read by target_affinity_ml.features.compute_and_cache_features:
+#   version         -> selects data/processed/v1/ subdirectory
+#   features.morgan -> radius, n_bits for Morgan fingerprints
+#   features.descriptors -> drop_missing_threshold for RDKit 2D descriptors
+
+version: "v1"
+
+features:
+  morgan:
+    radius: 2
+    n_bits: 2048
+  descriptors:
+    drop_missing_threshold: 0.05  # Drop descriptors with >5% missing values
