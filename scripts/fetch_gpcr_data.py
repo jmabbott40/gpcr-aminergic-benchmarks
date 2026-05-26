@@ -327,7 +327,7 @@ def main() -> None:
     # ------------------------------------------------------------------
     # Step 1: Resolve gene symbols -> ChEMBL IDs
     # ------------------------------------------------------------------
-    from gpcr_aminegric_benchmarks.target_lists import (
+    from gpcr_aminergic_benchmarks.target_lists import (
         get_all_gene_symbols,
         resolve_chembl_ids,
     )
@@ -374,7 +374,7 @@ def main() -> None:
     # ------------------------------------------------------------------
     # Step 3: Build the aminergic TargetClassConfig
     # ------------------------------------------------------------------
-    from gpcr_aminegric_benchmarks.target_class import build_aminergic_config
+    from gpcr_aminergic_benchmarks.target_class import build_aminergic_config
 
     config = build_aminergic_config(resolved_ids)
     logger.info(

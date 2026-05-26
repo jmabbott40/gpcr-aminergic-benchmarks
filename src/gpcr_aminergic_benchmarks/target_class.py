@@ -7,7 +7,7 @@ resolution that happens at fetch time (Task 7), not at import time.
 from __future__ import annotations
 
 from target_affinity_ml.data.target_class_config import TargetClassConfig
-from gpcr_aminegric_benchmarks.target_lists import get_gene_to_family
+from gpcr_aminergic_benchmarks.target_lists import get_gene_to_family
 
 
 def build_aminergic_config(resolved_ids: dict[str, str]) -> TargetClassConfig:

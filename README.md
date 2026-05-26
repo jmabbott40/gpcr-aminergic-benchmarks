@@ -1,6 +1,4 @@
-# gpcr-aminegric-benchmarks
-
-> Note: the GitHub repo name `gpcr-aminegric-benchmarks` contains a typo (transposed letters in "aminegric"); the package name and Python import path also use that form to stay consistent with the URL. Scientific identifiers — class names, filename stems, docstrings, prose — use the correct biological term "aminergic".
+# gpcr-aminergic-benchmarks
 
 ## Purpose
 
@@ -27,8 +25,8 @@ Kinase application repo (Plan 1): <https://github.com/jmabbott40/kinase-affinity
 ## Installation
 
 ```bash
-git clone https://github.com/jmabbott40/gpcr-aminegric-benchmarks.git
-cd gpcr-aminegric-benchmarks
+git clone https://github.com/jmabbott40/gpcr-aminergic-benchmarks.git
+cd gpcr-aminergic-benchmarks
 pip install -e ".[dev]"
 ```
 
@@ -41,10 +39,12 @@ pip install -e ".[deep]"
 ## Repository layout
 
 ```
-src/gpcr_aminegric_benchmarks/   # Python package (typo'd name matches URL)
+src/gpcr_aminergic_benchmarks/   # Python package
     __init__.py
     target_lists.py              # aminergic receptor gene symbols + families
     target_class.py              # build_aminergic_config() builder
+scripts/
+    fetch_gpcr_data.py           # ChEMBL data ingestion (per-target checkpointed)
 tests/
 ```
 
