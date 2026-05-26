@@ -1,0 +1,50 @@
+# Data (large files — raw ChEMBL downloads and processed artifacts)
+data/
+data/raw/
+data/processed/
+*.npz
+*.parquet
+
+# Model checkpoints and predictions (regenerable artifacts)
+results/models/
+results/predictions/
+*.pt
+*.pkl
+*.joblib
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+.venv/
+.env
+
+# Testing / linting caches
+.pytest_cache/
+.ruff_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Conda
+*.conda
+
+# Claude Code
+.claude/

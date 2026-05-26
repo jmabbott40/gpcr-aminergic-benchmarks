@@ -1,0 +1,64 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "gpcr-aminegric-benchmarks"
+version = "1.0.0"
+description = "Cross-class benchmark of aminergic GPCR affinity prediction — Plan 2 / Phase 1 of the multi-class expansion."
+readme = "README.md"
+requires-python = ">=3.11"
+license = {file = "LICENSE"}
+authors = [
+    {name = "Joshua Abbott"},
+]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Science/Research",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3.11",
+    "Topic :: Scientific/Engineering :: Bio-Informatics",
+]
+
+dependencies = [
+    "target-affinity-ml @ git+https://github.com/jmabbott40/target-affinity-ml.git@v1.1.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.4",
+    "ruff>=0.1.6",
+]
+deep = [
+    "torch>=2.1",
+    "torch-geometric>=2.4",
+    "fair-esm>=2.0.0",
+]
+
+[project.urls]
+Homepage = "https://github.com/jmabbott40/gpcr-aminegric-benchmarks"
+Library = "https://github.com/jmabbott40/target-affinity-ml"
+"Kinase sister repo" = "https://github.com/jmabbott40/kinase-affinity-baselines"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]
+markers = [
+    "slow: tests that take >30 seconds (integration tests)",
+]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+
+[tool.ruff.lint]
+select = [
+    "E",    # pycodestyle errors
+    "F",    # pyflakes (unused imports, undefined names, etc.)
+    "I",    # isort (import sorting)
+    "B",    # flake8-bugbear (likely bugs and design issues)
+    "UP",   # pyupgrade (modern Python idioms)
+]
