@@ -57,7 +57,7 @@ ALL_MODELS = [
     "fusion",
 ]
 ALL_SPLITS = ["random", "scaffold", "target"]
-ALL_SEEDS = [42, 43, 44, 45, 46]
+ALL_SEEDS = [42, 123, 456, 789, 1024]  # match kinase preprint v1 seeds (spec Section 6.2)
 
 DATASET_VERSION = "v1"
 
