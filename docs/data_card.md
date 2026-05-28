@@ -273,3 +273,39 @@ If using this dataset, please cite:
 
 - ChEMBL: Mendez et al. (2019) "ChEMBL: towards direct deposition of bioassay data."
   *Nucleic Acids Research*, 47(D1), D930–D940.
+
+---
+
+# Kinase reference data (Plan 3 — Plan 1 L2 resolution)
+
+As of Plan 3, this repo hosts the kinase Plan 1 reference data needed for
+the cross-class analysis. Provenance and contents:
+
+## Source
+
+- **Source application repo:** [kinase-affinity-baselines](https://github.com/jmabbott40/kinase-affinity-baselines) (frozen at v1.0; the kinase preprint v1)
+- **Library version that produced this data:** `target-affinity-ml` v1.0.0 (kinase pipeline, pre-class-agnostic refactor)
+- **Date copied:** 2026-05-28
+- **Hosting rationale:** The kinase repo is frozen at v1.0 for reproducibility of the published preprint, so the cross-class analysis cannot live there. Plan 3's analyses (notebooks 05–07) read from this in-repo copy. A future Zenodo deposit will replace the in-git copy with a versioned DOI.
+
+## Contents (`data/kinase_reference/`)
+
+| Path | Contents |
+|---|---|
+| `features/morgan_fp.npz` | Morgan FP (2048-bit, radius 2) for ~206K kinase compounds |
+| `features/esm2_embeddings.npz` | ESM-2 (esm2_t33_650M_UR50D) mean-pooled embeddings for kinase targets |
+| `features/smiles_index.json` | Compound index for the feature arrays |
+| `features/target_index.json` | Target index for the ESM-2 embeddings |
+| `curated_activities.parquet` | 353K curated kinase records (~206K compounds × 507 targets) |
+| `splits/{random,scaffold,target}_split.json` | Train/val/test split index JSONs (seed=42) |
+| `benchmark_v1/multi_seed_aggregated.csv` | Multi-seed aggregated metrics (mean ± SD per model × split) |
+| `benchmark_v1/per_seed_metrics.csv` | All per-seed metrics |
+| `benchmark_v1/per_target/per_target_<model>_<split>.csv` | Per-target metric breakdown (model × split × seed); the H3 cross-class correlation reads these |
+
+## Not included (in-repo)
+
+- `features/rdkit_descriptors.npz` (~80 MB) — exceeds GitHub's recommended file-size threshold. Available on the corresponding author's local filesystem and will be included in the eventual Zenodo deposit. Plan 3's analyses use the per-target metric CSVs rather than raw descriptor arrays, so this exclusion does not block the cross-class analysis.
+
+## Cross-link
+
+For the full kinase data pipeline + benchmark code, see [kinase-affinity-baselines](https://github.com/jmabbott40/kinase-affinity-baselines). The data card in that repo describes the original kinase dataset construction.

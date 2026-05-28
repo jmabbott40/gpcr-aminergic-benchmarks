@@ -22,6 +22,19 @@ This application repo pins that library and adds:
 
 Kinase application repo (Plan 1): <https://github.com/jmabbott40/kinase-affinity-baselines>
 
+## Cross-class data
+
+As of Plan 3, this repo hosts **both** the GPCR primary data AND the kinase
+reference data needed for the cross-class comparison analysis. The kinase
+data lives in `data/kinase_reference/` (Morgan FP + ESM-2 embeddings,
+curated activities, splits, benchmark CSVs, and per-target metrics — the
+RDKit descriptors file is local-only pending Zenodo deposit due to GitHub
+file-size limits; see `data/kinase_reference/README.md` for full provenance).
+This resolves Plan 1 limitation L2 (kinase reference data previously
+local-only). Plan 3's cross-class analysis scripts and notebooks read from
+both `data/processed/v1/` (GPCR side) and `data/kinase_reference/` (kinase
+side) so the comparison is fully reproducible from this single repo.
+
 ## Installation
 
 ```bash
