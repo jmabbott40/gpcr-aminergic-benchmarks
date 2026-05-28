@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "gpcr-aminergic-benchmarks"
-version = "1.0.0"
+version = "1.1.0"
 description = "Cross-class benchmark of aminergic GPCR affinity prediction — Plan 2 / Phase 1 of the multi-class expansion."
 readme = "README.md"
 requires-python = ">=3.11"
