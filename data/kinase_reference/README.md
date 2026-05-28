@@ -60,3 +60,15 @@ Plan 3 spec references `benchmark_v1/all_seeds_metrics.csv`. The kinase repo
 uses the naming `multi_seed_aggregated.csv` (same content). The per-seed
 equivalent is `per_seed_metrics.csv`. Notebook 06 should load
 `benchmark_v1/multi_seed_aggregated.csv`.
+
+## Files NOT included in this in-git copy
+
+- `features/rdkit_descriptors.npz` (~80 MB) — exceeds GitHub's recommended file
+  size threshold; available on local filesystem at
+  `/Users/joshuaabbott/mlproject/data/processed/v1/features/rdkit_descriptors.npz`
+  and will be included in the Zenodo deposit when the cross-class paper is
+  submitted. Plan 3's H3 analysis uses the per-target metric CSVs
+  (`benchmark_v1/per_target/*.csv`) rather than the raw feature arrays, so the
+  missing file does not block downstream analysis. If you need it for full
+  reproducibility, contact the corresponding author or download from Zenodo
+  once published.
