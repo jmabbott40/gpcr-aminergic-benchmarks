@@ -21,7 +21,7 @@ classifiers = [
 ]
 
 dependencies = [
-    "target-affinity-ml @ git+https://github.com/jmabbott40/target-affinity-ml.git@v1.1.0",
+    "target-affinity-ml @ git+https://github.com/jmabbott40/target-affinity-ml.git@v1.2.0",
 ]
 
 [project.optional-dependencies]
