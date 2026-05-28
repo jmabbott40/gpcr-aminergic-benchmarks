@@ -5,6 +5,10 @@ data/processed/
 *.npz
 *.parquet
 
+# Kinase reference data — hosted in-repo for cross-class analysis (Plan 3)
+!data/kinase_reference/
+!data/kinase_reference/**
+
 # Model checkpoints and predictions (regenerable artifacts)
 results/models/
 results/predictions/
