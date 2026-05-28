@@ -1,0 +1,3 @@
+class,n_records,n_compounds,n_targets,median_compounds_per_target,pct_active,median_pactivity
+gpcr_aminergic,70163,33195,36,1310,79.51199350084802,7.031517051446065
+kinase,352874,205747,507,126,77.29699552814886,7.0

@@ -1,0 +1,22 @@
+model,class,transition,ratio,in_range,verdict
+elasticnet,gpcr_aminergic,random_to_scaffold,0.038447483542283056,False,b) below
+elasticnet,gpcr_aminergic,scaffold_to_target,-0.007122760881486312,False,b) below
+esm_fp_mlp,gpcr_aminergic,random_to_scaffold,0.488306918110944,True,a) within range
+esm_fp_mlp,gpcr_aminergic,scaffold_to_target,0.3601181394026325,True,a) within range
+esm_fp_mlp,kinase,random_to_scaffold,0.16138996138996148,True,a) within range
+esm_fp_mlp,kinase,scaffold_to_target,0.3074024822695034,True,a) within range
+fusion,gpcr_aminergic,random_to_scaffold,0.4191491999167808,True,a) within range
+fusion,gpcr_aminergic,scaffold_to_target,0.1468769889121611,False,b) below
+fusion,kinase,random_to_scaffold,,False,b) below
+fusion,kinase,scaffold_to_target,0.27056323060573867,True,a) within range
+gnn,gpcr_aminergic,random_to_scaffold,0.1561935863039181,True,a) within range
+gnn,gpcr_aminergic,scaffold_to_target,0.06164550777095958,False,b) below
+gnn,kinase,random_to_scaffold,,False,b) below
+gnn,kinase,scaffold_to_target,0.245925925925926,False,b) below
+mlp,gpcr_aminergic,random_to_scaffold,0.1592175406417271,True,a) within range
+mlp,gpcr_aminergic,scaffold_to_target,-0.039322553895801055,False,b) below
+random_forest,gpcr_aminergic,random_to_scaffold,0.12844672887480116,True,a) within range
+random_forest,gpcr_aminergic,scaffold_to_target,-0.04750187510000895,False,b) below
+xgboost,gpcr_aminergic,random_to_scaffold,0.13800822510482935,True,a) within range
+xgboost,gpcr_aminergic,scaffold_to_target,-0.04029497272034618,False,b) below
+*,*,class_x_split_interaction,,,interaction p=5.887e-05

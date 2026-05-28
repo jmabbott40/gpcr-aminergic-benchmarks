@@ -1,0 +1,5 @@
+hypothesis,description,n_tests_observed,n_tests_planned,n_significant_bonferroni,key_stat
+H1,RF competitive with deep models,6,12,4,"verdicts: {'RF loses': np.int64(4), 'ties': np.int64(2)}"
+H2,Random->scaffold + scaffold->target degradation within kinase-preprint ranges,20,20,10,in_range=10/20; class x split interaction p = 5.887e-05
+H3,ESM-2 advantage on target split (class x split interaction + pLDDT regression),3,6,2,verdict='a) ESM-2 same pattern'; class x split p = 0.3177; pLDDT regression interaction p = 0.03134
+H4,Single-seed flip rate similar between classes,6,6,6,verdicts: {'a) similar': np.int64(6)}

@@ -1,0 +1,7 @@
+model_pair,split,flip_rate_kinase,flip_rate_gpcr,diff,ci_low,ci_high,verdict
+random_forest_vs_esm_fp_mlp,random,,0.0,,,,a) similar
+random_forest_vs_esm_fp_mlp,scaffold,,0.0,,,,a) similar
+random_forest_vs_esm_fp_mlp,target,,0.0,,,,a) similar
+random_forest_vs_fusion,random,,0.0,,,,a) similar
+random_forest_vs_fusion,scaffold,,0.0,,,,a) similar
+random_forest_vs_fusion,target,,0.0,,,,a) similar
