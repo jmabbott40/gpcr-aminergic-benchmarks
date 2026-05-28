@@ -1,0 +1,544 @@
+chembl_id,class_name,uniprot,structure_source,n_binding_residues,mean_binding_site_plddt,error
+CHEMBL1805,gpcr_aminergic,P30939,AlphaFold,30,92.18966666666667,
+CHEMBL1821,gpcr_aminergic,P08173,AlphaFold,30,97.696,
+CHEMBL1833,gpcr_aminergic,P41595,AlphaFold,30,94.90633333333334,
+CHEMBL1850,gpcr_aminergic,P21918,AlphaFold,30,88.16133333333333,
+CHEMBL1867,gpcr_aminergic,P08913,AlphaFold,30,89.52966666666667,
+CHEMBL1875,gpcr_aminergic,Q13639,AlphaFold,30,95.04033333333335,
+CHEMBL1898,gpcr_aminergic,P28222,AlphaFold,30,92.62466666666666,
+CHEMBL1916,gpcr_aminergic,P18825,AlphaFold,30,89.00566666666668,
+CHEMBL1941,gpcr_aminergic,P25021,AlphaFold,30,96.57033333333332,
+CHEMBL1942,gpcr_aminergic,P18089,AlphaFold,30,90.72166666666668,
+CHEMBL1983,gpcr_aminergic,P28221,AlphaFold,30,91.48233333333336,
+CHEMBL2035,gpcr_aminergic,P08912,AlphaFold,30,95.59033333333335,
+CHEMBL2056,gpcr_aminergic,P21728,AlphaFold,30,89.23800000000001,
+CHEMBL210,gpcr_aminergic,P07550,AlphaFold,30,96.52266666666665,
+CHEMBL211,gpcr_aminergic,P08172,AlphaFold,30,97.392,
+CHEMBL213,gpcr_aminergic,P08588,AlphaFold,30,95.11999999999999,
+CHEMBL214,gpcr_aminergic,P08908,AlphaFold,30,95.12966666666668,
+CHEMBL216,gpcr_aminergic,P11229,AlphaFold,30,96.29299999999998,
+CHEMBL217,gpcr_aminergic,P14416,AlphaFold,30,89.02966666666666,
+CHEMBL2182,gpcr_aminergic,P28566,AlphaFold,30,90.40633333333334,
+CHEMBL219,gpcr_aminergic,P21917,AlphaFold,30,96.35799999999999,
+CHEMBL223,gpcr_aminergic,P25100,AlphaFold,30,86.90266666666668,
+CHEMBL224,gpcr_aminergic,P28223,AlphaFold,30,95.70599999999999,
+CHEMBL225,gpcr_aminergic,P28335,AlphaFold,30,94.61266666666667,
+CHEMBL229,gpcr_aminergic,P25100,AlphaFold,30,86.90266666666668,
+CHEMBL231,gpcr_aminergic,P35367,AlphaFold,30,93.66233333333334,
+CHEMBL232,gpcr_aminergic,P35368,AlphaFold,30,87.25399999999999,
+CHEMBL234,gpcr_aminergic,P35462,AlphaFold,30,93.13533333333334,
+CHEMBL245,gpcr_aminergic,P20309,AlphaFold,30,94.77466666666666,
+CHEMBL246,gpcr_aminergic,P13945,AlphaFold,30,94.98566666666667,
+CHEMBL264,gpcr_aminergic,Q9Y5N1,AlphaFold,30,93.77566666666667,
+CHEMBL3155,gpcr_aminergic,P34969,AlphaFold,30,93.54366666666667,
+CHEMBL3371,gpcr_aminergic,P50406,AlphaFold,30,92.32166666666669,
+CHEMBL3426,gpcr_aminergic,P47898,AlphaFold,30,93.98033333333333,
+CHEMBL3759,gpcr_aminergic,Q9H3N8,AlphaFold,30,90.86233333333332,
+CHEMBL5857,gpcr_aminergic,Q96RJ0,AlphaFold,30,95.27433333333333,
+CHEMBL1075102,kinase,O00443,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL1075104,kinase,Q5S007,AlphaFold,85,80.62305882352942,
+CHEMBL1075115,kinase,Q9NR20,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL1075126,kinase,P30613,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL1075133,kinase,Q8WTQ7,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL1075155,kinase,Q15208,AlphaFold,85,86.01305882352943,
+CHEMBL1075157,kinase,P49619,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL1075163,kinase,Q8TF76,AlphaFold,84,95.87452380952384,
+CHEMBL1075165,kinase,Q8NEB9,AlphaFold,83,94.21,
+CHEMBL1075166,kinase,P35626,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL1075167,kinase,Q8NE63,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL1075173,kinase,Q9H4A3,AlphaFold,85,88.81552941176474,
+CHEMBL1075181,kinase,O00764,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL1075189,kinase,P14618,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL1075195,kinase,Q9UL54,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL1163101,kinase,O75460,AlphaFold,84,88.3815476190476,
+CHEMBL1163104,kinase,O95747,AlphaFold,85,88.6045882352941,
+CHEMBL1163106,kinase,P20794,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL1163108,kinase,Q9UEW8,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL1163112,kinase,O76039,AlphaFold,84,90.8934523809524,
+CHEMBL1163117,kinase,Q8IVW4,AlphaFold,84,91.10809523809526,
+CHEMBL1163120,kinase,O75747,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL1163123,kinase,O95382,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL1163124,kinase,O43283,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL1163126,kinase,Q9UPZ9,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL1163127,kinase,Q6ZN16,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL1163128,kinase,Q7Z460,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL1163129,kinase,Q52WX2,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL1169596,kinase,P10398,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL1250412,kinase,Q96QT4,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL1293199,kinase,Q99986,AlphaFold,84,94.60964285714287,
+CHEMBL1293257,kinase,P51570,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL1649059,kinase,Q86Y07,AlphaFold,84,95.3720238095238,
+CHEMBL1770034,kinase,Q8TBX8,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL1772932,kinase,O43683,AlphaFold,85,92.82882352941176,
+CHEMBL1795165,kinase,P57058,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL1795191,kinase,Q15131,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL1795192,kinase,Q14004,AlphaFold,84,94.11119047619044,
+CHEMBL1795194,kinase,P48426,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL1795195,kinase,Q96Q15,AlphaFold,83,73.83999999999997,
+CHEMBL1795198,kinase,Q7RTN6,AlphaFold,85,95.50047058823529,
+CHEMBL1795199,kinase,Q9Y572,AlphaFold,84,90.47154761904764,
+CHEMBL1818,kinase,O95163,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL1824,kinase,P04626,AlphaFold,85,82.57905882352941,
+CHEMBL1841,kinase,P06241,AlphaFold,85,59.67223529411764,
+CHEMBL1844,kinase,P07333,AlphaFold,85,83.51623529411765,
+CHEMBL1862,kinase,P00519,AlphaFold,85,89.84729411764705,
+CHEMBL1868,kinase,P17948,AlphaFold,85,85.26623529411765,
+CHEMBL1906,kinase,P04049,AlphaFold,85,88.70223529411767,
+CHEMBL1908382,kinase,Q13523,AlphaFold,84,93.82071428571427,
+CHEMBL1908383,kinase,O60331,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL1908384,kinase,Q9NRH2,AlphaFold,82,84.00456790123454,
+CHEMBL1908386,kinase,Q6XUX3,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL1908389,kinase,Q12852,AlphaFold,85,89.44635294117644,
+CHEMBL1926492,kinase,Q5TCY1,AlphaFold,84,96.3458333333333,
+CHEMBL1936,kinase,P10721,AlphaFold,85,86.22082352941177,
+CHEMBL1938215,kinase,Q8IVT5,AlphaFold,85,88.86741176470589,
+CHEMBL1938217,kinase,Q8NB16,AlphaFold,85,91.63364705882353,
+CHEMBL1938222,kinase,Q9Y2I7,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL1955,kinase,P35916,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL1957,kinase,P08069,AlphaFold,84,75.26654761904763,
+CHEMBL1974,kinase,P36888,AlphaFold,85,90.38458823529407,
+CHEMBL1981,kinase,P06213,AlphaFold,84,75.99154761904762,
+CHEMBL1991,kinase,O14920,AlphaFold,85,91.19541176470585,
+CHEMBL2007,kinase,P16234,AlphaFold,85,87.67858823529411,
+CHEMBL203,kinase,P00533,AlphaFold,85,82.65105882352941,
+CHEMBL2041,kinase,P07949,AlphaFold,85,91.07282352941176,
+CHEMBL2068,kinase,P29317,AlphaFold,82,89.22365853658535,
+CHEMBL2069163,kinase,Q96S53,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL2073,kinase,P07947,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL2109,kinase,P46734,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL2116,kinase,P54646,AlphaFold,85,87.96211764705885,
+CHEMBL2117,kinase,O43741,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL2147,kinase,P11309,AlphaFold,85,96.42011764705883,
+CHEMBL2148,kinase,P52333,AlphaFold,85,92.6291764705882,
+CHEMBL2159,kinase,P15531,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL2160,kinase,P22392,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL2171,kinase,P52564,AlphaFold,84,82.2845238095238,
+CHEMBL2185,kinase,Q96GD4,AlphaFold,83,92.36722891566268,
+CHEMBL2191,kinase,P17858,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL2208,kinase,P49137,AlphaFold,85,93.42541176470591,
+CHEMBL2221,kinase,P13861,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL2250,kinase,P51451,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL2251,kinase,Q9BTU6,AlphaFold,83,94.6531325301205,
+CHEMBL2276,kinase,P45983,AlphaFold,84,89.08642857142858,
+CHEMBL2292,kinase,Q13627,AlphaFold,84,96.95690476190478,
+CHEMBL2300,kinase,P32189,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL2331053,kinase,Q16875,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL2343,kinase,O00141,AlphaFold,78,91.72769230769234,
+CHEMBL2345,kinase,P51812,AlphaFold,85,85.8508235294118,
+CHEMBL2349,kinase,P15735,AlphaFold,85,94.54247058823528,
+CHEMBL2358,kinase,P67870,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL2393,kinase,P54619,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL2417351,kinase,O15021,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL2417352,kinase,O60307,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL2417353,kinase,Q86SG6,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL2417354,kinase,Q53H12,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL2426,kinase,Q9HCP0,AlphaFold,84,94.54464285714286,
+CHEMBL2428,kinase,Q15746,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL2431,kinase,P31751,AlphaFold,85,91.00623529411764,
+CHEMBL2447,kinase,P27707,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL2453,kinase,Q9UGJ0,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL2468,kinase,O43293,AlphaFold,85,94.04847058823532,
+CHEMBL2469,kinase,Q9BZX2,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL2493,kinase,Q14012,AlphaFold,85,85.73835294117646,
+CHEMBL2494,kinase,Q16566,AlphaFold,78,89.4998717948718,
+CHEMBL2508,kinase,Q00534,AlphaFold,84,88.90035714285716,
+CHEMBL2527,kinase,O96017,AlphaFold,85,86.928,
+CHEMBL2534,kinase,O15530,AlphaFold,85,94.45035294117648,
+CHEMBL2543,kinase,P78368,AlphaFold,79,95.93594936708863,
+CHEMBL2553,kinase,Q15418,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL2558,kinase,P53355,AlphaFold,85,90.07800000000002,
+CHEMBL258,kinase,P06239,AlphaFold,85,90.85611764705884,
+CHEMBL2595,kinase,O94806,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL2598,kinase,P41743,AlphaFold,85,92.02941176470586,
+CHEMBL2599,kinase,P43405,AlphaFold,85,92.74423529411764,
+CHEMBL260,kinase,Q16539,AlphaFold,84,89.73738095238097,
+CHEMBL262,kinase,P49841,AlphaFold,84,95.94523809523811,
+CHEMBL2634,kinase,P41240,AlphaFold,85,92.10729411764707,
+CHEMBL2637,kinase,P53779,AlphaFold,84,90.83083333333333,
+CHEMBL267,kinase,P12931,AlphaFold,85,94.26917647058822,
+CHEMBL2689,kinase,Q04912,AlphaFold,85,86.06058823529413,
+CHEMBL2695,kinase,Q05397,AlphaFold,82,88.83487804878045,
+CHEMBL2708,kinase,Q16584,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL2743,kinase,P22612,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL2777,kinase,Q9H1R3,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL2783,kinase,Q15078,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL279,kinase,P35968,AlphaFold,85,82.87141176470588,
+CHEMBL2793,kinase,P48729,AlphaFold,84,96.07214285714285,
+CHEMBL2801,kinase,Q13557,AlphaFold,85,93.3009411764706,
+CHEMBL2803,kinase,P43403,AlphaFold,85,89.40799999999994,
+CHEMBL2815,kinase,P04629,AlphaFold,85,85.32776470588239,
+CHEMBL2828,kinase,P48730,AlphaFold,84,95.33630952380955,
+CHEMBL2835,kinase,P23458,AlphaFold,85,91.8923529411765,
+CHEMBL2842,kinase,P42345,AlphaFold,83,86.32578313253015,
+CHEMBL2850,kinase,P49840,AlphaFold,84,95.92154761904759,
+CHEMBL2872,kinase,P80192,AlphaFold,85,88.13376470588236,
+CHEMBL2873,kinase,Q02779,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL2883,kinase,P04183,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL2886,kinase,P00558,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL2896,kinase,Q13237,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL2897,kinase,P45985,AlphaFold,84,87.30238095238094,
+CHEMBL2911,kinase,P35558,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL2918,kinase,P22694,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL2938,kinase,P05129,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL2939,kinase,O15264,AlphaFold,84,93.49988095238098,
+CHEMBL2959,kinase,Q08881,AlphaFold,85,86.38576470588235,
+CHEMBL2964,kinase,P36507,AlphaFold,85,92.8645882352941,
+CHEMBL2971,kinase,O60674,AlphaFold,85,93.67988235294116,
+CHEMBL2972,kinase,Q01813,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL2973,kinase,O75116,AlphaFold,85,94.73811764705886,
+CHEMBL299,kinase,P17252,AlphaFold,85,94.18047058823531,
+CHEMBL2996,kinase,Q05655,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL2999,kinase,O75914,AlphaFold,85,93.39376470588236,
+CHEMBL3009,kinase,Q15303,AlphaFold,85,85.29517647058822,
+CHEMBL301,kinase,P24941,AlphaFold,84,88.43738095238095,
+CHEMBL3023,kinase,Q9NRA0,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL3024,kinase,P53350,AlphaFold,85,93.85576470588234,
+CHEMBL3032,kinase,Q16513,AlphaFold,85,91.56482352941174,
+CHEMBL3045,kinase,P05771,AlphaFold,85,93.81811764705883,
+CHEMBL3055,kinase,P50613,AlphaFold,84,86.71523809523809,
+CHEMBL308,kinase,P06493,AlphaFold,84,89.22202380952382,
+CHEMBL3094,kinase,Q8IW41,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL3108655,kinase,Q6ZWH5,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL3111,kinase,Q9UBS0,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL3112385,kinase,Q9Y259,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL3116,kinase,P50750,AlphaFold,84,93.73380952380951,
+CHEMBL3117,kinase,P35790,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL3123,kinase,Q9UIK4,AlphaFold,85,95.46917647058827,
+CHEMBL3125,kinase,O75676,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL3130,kinase,O00329,AlphaFold,82,93.20731707317076,
+CHEMBL3142,kinase,P78527,,0,,fetch_structure failed: AlphaFold API returned HTTP 404 for P78527
+CHEMBL3145,kinase,P42338,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL3231,kinase,Q13464,AlphaFold,85,94.8501176470588,
+CHEMBL3234,kinase,P08631,AlphaFold,85,91.49329411764703,
+CHEMBL3267,kinase,P48736,AlphaFold,83,91.36192771084337,
+CHEMBL3268,kinase,Q9UBF8,AlphaFold,83,95.88301204819271,
+CHEMBL331,kinase,P11802,AlphaFold,84,87.88619047619049,
+CHEMBL3337327,kinase,Q6IQ55,AlphaFold,84,96.43309523809519,
+CHEMBL3337330,kinase,Q9BXM7,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL3357,kinase,P51617,AlphaFold,85,91.82176470588234,
+CHEMBL3384,kinase,Q16512,AlphaFold,85,91.66152941176473,
+CHEMBL3385,kinase,P27361,AlphaFold,84,94.17571428571429,
+CHEMBL3407326,kinase,Q8TE04,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL3407327,kinase,Q9BZ23,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL3407328,kinase,Q9H999,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL3414416,kinase,Q96PN8,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL3421524,kinase,P16118,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL3421525,kinase,O60825,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL3438,kinase,Q05513,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL3476,kinase,O15111,AlphaFold,85,90.85199999999998,
+CHEMBL3529,kinase,Q14164,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL3530,kinase,O14733,AlphaFold,85,83.90376470588238,
+CHEMBL3542,kinase,Q8IY84,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL3553,kinase,P29597,AlphaFold,85,90.72623529411763,
+CHEMBL3559690,kinase,Q8IZL9,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL3559692,kinase,Q9NYV4,AlphaFold,84,94.32928571428572,
+CHEMBL3582,kinase,Q02156,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL3587,kinase,Q02750,AlphaFold,85,93.33847058823532,
+CHEMBL3589,kinase,P55263,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL3616,kinase,C0HM02,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL3627581,kinase,Q6P5Z2,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL3627582,kinase,Q9BXA6,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL3627583,kinase,Q6VAB6,AlphaFold,85,89.50776470588237,
+CHEMBL3627584,kinase,Q5TCX8,AlphaFold,78,91.17346153846152,
+CHEMBL3627585,kinase,Q9H792,AlphaFold,58,91.95517241379308,
+CHEMBL3627592,kinase,Q6P2M8,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL3629,kinase,P68400,AlphaFold,82,97.12902439024388,
+CHEMBL3632457,kinase,P61024,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL3667,kinase,P42356,AlphaFold,81,87.4472839506173,
+CHEMBL3717,kinase,P08581,AlphaFold,85,84.15517647058822,
+CHEMBL3721311,kinase,Q16877,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL3778,kinase,Q9NWZ3,AlphaFold,85,93.96141176470586,
+CHEMBL3788,kinase,O00444,AlphaFold,85,92.28035294117647,
+CHEMBL3797,kinase,Q13315,,0,,fetch_structure failed: AlphaFold API returned HTTP 404 for Q13315
+CHEMBL3829,kinase,Q13555,AlphaFold,84,93.48190476190477,
+CHEMBL3830,kinase,Q2M2I8,AlphaFold,85,95.85364705882354,
+CHEMBL3831,kinase,Q7KZI7,AlphaFold,83,91.7643373493976,
+CHEMBL3834,kinase,P51813,AlphaFold,85,87.47847058823534,
+CHEMBL3835,kinase,P51955,AlphaFold,84,84.38809523809525,
+CHEMBL3836,kinase,P53667,AlphaFold,85,88.30235294117647,
+CHEMBL3844,kinase,Q93100,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL3847,kinase,Q9Y478,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL3861,kinase,Q15119,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL3863,kinase,Q15139,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL3886,kinase,Q9NYL2,AlphaFold,85,85.9010588235294,
+CHEMBL3893,kinase,Q15120,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL3905,kinase,P07948,AlphaFold,85,91.5670588235294,
+CHEMBL3906,kinase,Q15349,AlphaFold,82,84.91609756097556,
+CHEMBL3920,kinase,Q04759,AlphaFold,85,93.39788235294118,
+CHEMBL3935,kinase,Q9UQB9,AlphaFold,85,91.20270588235297,
+CHEMBL3938,kinase,O75716,AlphaFold,85,96.58494117647054,
+CHEMBL3956,kinase,Q13233,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL3961,kinase,Q15759,AlphaFold,84,90.36369047619048,
+CHEMBL3980,kinase,O94768,AlphaFold,85,95.95894117647057,
+CHEMBL3981,kinase,O94804,AlphaFold,85,88.60658823529414,
+CHEMBL3982,kinase,P16591,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL3983,kinase,P33981,AlphaFold,84,93.49833333333332,
+CHEMBL3984,kinase,Q99640,AlphaFold,84,96.23749999999998,
+CHEMBL3988,kinase,P54764,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL4004,kinase,Q16816,AlphaFold,85,95.47282352941177,
+CHEMBL4005,kinase,P42336,AlphaFold,83,94.44722891566262,
+CHEMBL4014,kinase,P42684,AlphaFold,85,89.16564705882354,
+CHEMBL4036,kinase,Q00535,AlphaFold,84,91.85666666666668,
+CHEMBL4040,kinase,P28482,AlphaFold,84,94.26511904761911,
+CHEMBL4045,kinase,Q13131,AlphaFold,85,90.07541176470589,
+CHEMBL4070,kinase,P19784,AlphaFold,84,96.89809523809524,
+CHEMBL4079,kinase,P25098,AlphaFold,85,94.39870588235293,
+CHEMBL4101,kinase,P17612,AlphaFold,85,96.98917647058823,
+CHEMBL4105755,kinase,Q9Y6T7,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL4105759,kinase,O43187,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL4105787,kinase,P23743,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL4105826,kinase,Q96GX5,AlphaFold,73,89.17753424657532,
+CHEMBL4105867,kinase,Q13057,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL4105885,kinase,Q86TW2,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL4105886,kinase,Q3MIX3,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL4105932,kinase,Q76MJ5,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL4105936,kinase,O60361,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL4105942,kinase,Q13574,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL4121,kinase,Q13554,AlphaFold,82,94.01158536585366,
+CHEMBL4128,kinase,Q02763,AlphaFold,85,87.40811764705883,
+CHEMBL4141,kinase,Q16654,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL4147,kinase,Q9UQM7,AlphaFold,85,93.74294117647061,
+CHEMBL4175,kinase,P42679,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL4179,kinase,P45984,AlphaFold,84,88.44928571428572,
+CHEMBL4202,kinase,Q9H2G2,AlphaFold,85,87.55141176470586,
+CHEMBL4203,kinase,Q9HAZ1,AlphaFold,84,96.71130952380949,
+CHEMBL4204,kinase,Q9HBH9,AlphaFold,85,88.55011764705884,
+CHEMBL4223,kinase,P42685,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL4224,kinase,P49759,AlphaFold,84,96.81738095238096,
+CHEMBL4225,kinase,P49760,AlphaFold,84,96.58833333333335,
+CHEMBL4226,kinase,P49761,AlphaFold,84,96.26726190476194,
+CHEMBL4237,kinase,O75582,AlphaFold,85,78.71929411764708,
+CHEMBL4246,kinase,Q92570,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL4247,kinase,Q9UM73,AlphaFold,85,88.39388235294118,
+CHEMBL4273,kinase,Q13976,AlphaFold,85,92.99011764705882,
+CHEMBL4282,kinase,P31749,AlphaFold,85,91.5555294117647,
+CHEMBL4295784,kinase,P54886,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL4295947,kinase,Q9HA64,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL4295983,kinase,Q9UQ07,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL4296242,kinase,Q969H4,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL4309,kinase,Q9HC98,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL4311,kinase,Q9NQU5,AlphaFold,85,93.48258823529414,
+CHEMBL4312,kinase,Q9NRP7,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL4355,kinase,O14976,AlphaFold,84,91.26059523809523,
+CHEMBL4367,kinase,P42681,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL4375,kinase,Q96SB4,AlphaFold,84,95.71476190476191,
+CHEMBL4376,kinase,Q92630,AlphaFold,84,96.71011904761906,
+CHEMBL4388,kinase,P23919,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL4394,kinase,Q9NYA1,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL4442,kinase,Q00526,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL4454,kinase,P09769,AlphaFold,85,91.28870588235296,
+CHEMBL4482,kinase,O96013,AlphaFold,85,93.60047058823527,
+CHEMBL4487,kinase,Q13177,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL4501,kinase,P23443,AlphaFold,84,92.2267857142857,
+CHEMBL4516,kinase,Q5VT25,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL4522,kinase,Q9NSY1,AlphaFold,85,95.90294117647062,
+CHEMBL4523,kinase,Q9P1W9,AlphaFold,85,96.32035294117648,
+CHEMBL4523108,kinase,A7MCY6,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL4523326,kinase,Q5MAI5,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL4523401,kinase,Q8NFU5,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL4523418,kinase,Q92551,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL4523431,kinase,Q96PC2,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL4523432,kinase,Q96Q04,AlphaFold,85,89.1130588235294,
+CHEMBL4523434,kinase,Q96T60,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL4523488,kinase,Q9UHH9,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL4523504,kinase,Q9Y223,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL4524,kinase,Q9NQU5,AlphaFold,85,93.48258823529414,
+CHEMBL4524035,kinase,P11801,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL4525,kinase,Q9UEE5,AlphaFold,84,93.04511904761907,
+CHEMBL4527,kinase,Q9UKE5,AlphaFold,85,85.61952941176473,
+CHEMBL4574,kinase,Q8IWQ3,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL4575,kinase,O43781,AlphaFold,84,95.9038095238095,
+CHEMBL4576,kinase,Q9H2X6,AlphaFold,84,93.43464285714286,
+CHEMBL4577,kinase,Q9H422,AlphaFold,84,93.72130952380951,
+CHEMBL4578,kinase,Q14680,AlphaFold,85,89.03411764705884,
+CHEMBL4580,kinase,O00142,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL4597,kinase,Q00536,AlphaFold,84,83.86714285714285,
+CHEMBL4598,kinase,Q13043,AlphaFold,85,89.14847058823533,
+CHEMBL4599,kinase,Q07912,AlphaFold,85,89.14917647058822,
+CHEMBL4600,kinase,Q13153,AlphaFold,85,93.08435294117645,
+CHEMBL4601,kinase,Q13882,AlphaFold,85,90.05623529411763,
+CHEMBL4627,kinase,Q32MK0,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL4630,kinase,O14757,AlphaFold,85,89.10988235294114,
+CHEMBL4665585,kinase,Q01973,AlphaFold,85,86.78858823529414,
+CHEMBL4670,kinase,Q16644,AlphaFold,85,94.11294117647061,
+CHEMBL4674,kinase,P53778,AlphaFold,83,91.57216867469879,
+CHEMBL4708,kinase,Q9Y6E0,AlphaFold,85,90.64552941176471,
+CHEMBL4718,kinase,Q9BUB5,AlphaFold,85,76.3701176470588,
+CHEMBL4722,kinase,O14965,AlphaFold,85,94.02294117647061,
+CHEMBL4766,kinase,Q15118,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL4802064,kinase,O14986,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL4816,kinase,Q9Y243,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL4849,kinase,Q8TDX7,AlphaFold,85,90.81635294117649,
+CHEMBL4851,kinase,Q9Y2H1,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL4852,kinase,Q9Y4K4,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL4853,kinase,Q9Y6R4,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL4879437,kinase,P49842,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL4879492,kinase,Q8IXL6,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL4895,kinase,P30530,AlphaFold,85,84.58588235294118,
+CHEMBL4896,kinase,Q96KB5,AlphaFold,85,91.2110588235294,
+CHEMBL4897,kinase,Q9H4B4,AlphaFold,85,94.51235294117646,
+CHEMBL4898,kinase,Q16620,AlphaFold,85,80.48317647058825,
+CHEMBL4899,kinase,P41279,AlphaFold,84,89.36142857142858,
+CHEMBL4900,kinase,Q9BZL6,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL4924,kinase,Q9UK32,AlphaFold,79,83.31126582278482,
+CHEMBL4937,kinase,P49674,AlphaFold,84,93.86095238095238,
+CHEMBL4938,kinase,P54819,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL4948,kinase,Q13163,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL5014,kinase,O43353,AlphaFold,85,90.67094117647063,
+CHEMBL5021,kinase,P38936,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL5024,kinase,P20848,AlphaFold,83,,
+CHEMBL5026,kinase,O00418,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL5044,kinase,Q6P3R8,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL5047,kinase,Q6PHR2,AlphaFold,85,94.75576470588233,
+CHEMBL5052,kinase,Q9Y5S2,AlphaFold,85,93.41070588235291,
+CHEMBL5053,kinase,P51948,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL5073,kinase,Q8IU85,AlphaFold,85,86.34035294117646,
+CHEMBL5081,kinase,Q9Y616,AlphaFold,85,93.0434117647059,
+CHEMBL5082,kinase,Q9Y6E0,AlphaFold,85,90.64552941176471,
+CHEMBL5084,kinase,Q9Y6M4,AlphaFold,84,94.98309523809523,
+CHEMBL5095,kinase,P0C1S8,AlphaFold,85,92.02105882352939,
+CHEMBL5116,kinase,P0C264,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL5121,kinase,Q16659,AlphaFold,84,88.67892857142856,
+CHEMBL5122,kinase,Q16832,AlphaFold,85,83.88788235294116,
+CHEMBL5145,kinase,P15056,AlphaFold,85,85.73470588235296,
+CHEMBL5147,kinase,P54760,AlphaFold,85,88.58435294117648,
+CHEMBL5198,kinase,Q8TD08,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL5212,kinase,Q5TCQ9,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL5247,kinase,Q13418,AlphaFold,85,90.31929411764702,
+CHEMBL5251,kinase,Q06187,AlphaFold,85,90.34776470588237,
+CHEMBL5256,kinase,Q8N5S9,AlphaFold,85,91.3894117647059,
+CHEMBL5257,kinase,Q8TD19,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL5258,kinase,Q96NX5,AlphaFold,85,87.04505882352946,
+CHEMBL5260,kinase,Q59H18,AlphaFold,85,91.29635294117645,
+CHEMBL5261,kinase,Q7L7X3,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL5274,kinase,P35590,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL5284,kinase,Q96RR4,AlphaFold,85,92.19199999999998,
+CHEMBL5285,kinase,Q99683,AlphaFold,85,88.42894117647062,
+CHEMBL5314,kinase,Q06418,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL5316,kinase,Q07002,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL5319,kinase,Q08345,AlphaFold,85,71.08352941176474,
+CHEMBL5320,kinase,Q09013,AlphaFold,85,94.70388235294119,
+CHEMBL5330,kinase,Q12851,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL5331,kinase,Q12866,AlphaFold,85,87.22729411764709,
+CHEMBL5332,kinase,Q13164,AlphaFold,84,92.3097619047619,
+CHEMBL5334,kinase,Q13470,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL5358,kinase,Q9P2K8,AlphaFold,65,82.44323076923075,
+CHEMBL5364,kinase,Q9UBE8,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL5388,kinase,Q9UKI8,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL5404,kinase,Q86UE8,AlphaFold,85,92.65517647058819,
+CHEMBL5405,kinase,Q86UX6,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL5407,kinase,Q86V86,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL5408,kinase,Q9UHD2,AlphaFold,83,91.22602409638549,
+CHEMBL5415,kinase,Q9UPE1,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL5416,kinase,Q9UQ88,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL5426,kinase,Q86YV6,AlphaFold,83,94.30048192771083,
+CHEMBL5427,kinase,Q86Z02,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL5432,kinase,Q8IVH8,AlphaFold,85,89.03141176470592,
+CHEMBL5435,kinase,Q8IYT8,AlphaFold,85,92.00176470588235,
+CHEMBL5443,kinase,O00311,AlphaFold,82,97.26048780487805,
+CHEMBL5455,kinase,P07332,AlphaFold,85,95.4465882352941,
+CHEMBL5464,kinase,Q13546,AlphaFold,85,86.09764705882357,
+CHEMBL5465280,kinase,O75912,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL5465316,kinase,Q5KSL6,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL5469,kinase,Q14289,AlphaFold,85,88.3178823529412,
+CHEMBL5483,kinase,P14616,AlphaFold,85,88.07258823529415,
+CHEMBL5491,kinase,P30291,AlphaFold,85,93.06400000000001,
+CHEMBL5518,kinase,Q8N4C8,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL5519,kinase,Q8N568,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL5520,kinase,Q8N752,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL5543,kinase,Q9Y463,AlphaFold,84,96.64392857142855,
+CHEMBL5547,kinase,Q8NFD2,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL5550,kinase,Q8NI60,AlphaFold,85,92.51694117647061,
+CHEMBL5552,kinase,O00506,AlphaFold,85,91.12941176470588,
+CHEMBL5554,kinase,O00750,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL5568,kinase,P08922,AlphaFold,85,85.01858823529412,
+CHEMBL5578,kinase,O14519,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL5579,kinase,O14578,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL5600,kinase,P27448,AlphaFold,85,91.20988235294118,
+CHEMBL5604,kinase,Q15569,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL5605,kinase,Q15750,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL5606,kinase,Q15831,AlphaFold,85,95.25423529411769,
+CHEMBL5607,kinase,Q15835,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL5608,kinase,Q16288,AlphaFold,85,84.91352941176469,
+CHEMBL5615,kinase,Q6DT37,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL5627,kinase,P29376,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL5638,kinase,Q8NG66,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL5639,kinase,Q9Y3S1,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL5650,kinase,Q8TDC3,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL5651,kinase,Q8TDR2,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL5659,kinase,O14730,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL5667,kinase,P78356,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL5668,kinase,P78362,AlphaFold,84,95.18285714285709,
+CHEMBL5678,kinase,P34947,AlphaFold,85,94.76717647058824,
+CHEMBL5679,kinase,P51956,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL5681,kinase,P30085,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL5683,kinase,O15075,AlphaFold,85,92.74388235294118,
+CHEMBL5684,kinase,O15146,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL5698,kinase,Q9H093,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL5699,kinase,Q9H0K1,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL5701,kinase,Q9H2K8,AlphaFold,85,92.56517647058824,
+CHEMBL5703,kinase,Q9H3Y6,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL5719,kinase,P49336,AlphaFold,84,92.57785714285716,
+CHEMBL5724680,kinase,Q9H479,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL5728,kinase,Q92772,AlphaFold,84,87.84750000000001,
+CHEMBL5749,kinase,Q92918,AlphaFold,85,85.29894117647056,
+CHEMBL5753,kinase,Q96D53,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL5754,kinase,Q96L34,AlphaFold,85,92.31588235294119,
+CHEMBL5759,kinase,P31152,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL5776,kinase,O43318,AlphaFold,85,90.03976470588233,
+CHEMBL5784,kinase,O60285,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL5785,kinase,P19525,AlphaFold,85,93.34294117647055,
+CHEMBL5789,kinase,Q00532,AlphaFold,84,91.26738095238095,
+CHEMBL5790,kinase,Q00537,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL5794,kinase,Q9HBY8,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL5808,kinase,P21127,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL5810,kinase,P21709,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL5818,kinase,P51817,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL5819,kinase,P51957,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL5838,kinase,P21860,AlphaFold,85,83.88482352941178,
+CHEMBL5855,kinase,Q96PY6,AlphaFold,80,88.772625,
+CHEMBL5856,kinase,Q96Q40,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL5861,kinase,P32298,AlphaFold,85,95.36894117647059,
+CHEMBL5888,kinase,Q99558,AlphaFold,85,93.57470588235296,
+CHEMBL5907,kinase,Q9NRM7,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL5912,kinase,Q9NY57,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL5914,kinase,Q9Y2U5,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL5932,kinase,P53671,AlphaFold,85,83.44611764705881,
+CHEMBL5938,kinase,Q9NYY3,AlphaFold,85,94.52023529411763,
+CHEMBL5940,kinase,Q9P0L2,AlphaFold,85,93.618,
+CHEMBL5941,kinase,Q9P289,AlphaFold,85,90.07952941176471,
+CHEMBL5969,kinase,Q99755,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL5970,kinase,Q99759,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL5975,kinase,Q9BRS2,AlphaFold,85,94.34929411764708,
+CHEMBL6000,kinase,Q9BVS4,AlphaFold,84,90.55166666666668,
+CHEMBL6002,kinase,Q9BWU1,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL6003,kinase,Q9BXA7,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL6005,kinase,Q9BYT3,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL6006,kinase,O75385,AlphaFold,85,92.10247058823532,
+CHEMBL6010,kinase,O75956,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL6014,kinase,Q96PF2,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL6029,kinase,Q9BQI3,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL6030,kinase,Q9NZJ5,AlphaFold,85,84.61588235294116,
+CHEMBL6054,kinase,Q9UEW8,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL6055,kinase,Q9BYP7,AlphaFold,85,88.53776470588238,
+CHEMBL6066371,kinase,Q7L8L6,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL6066381,kinase,P33552,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL6066386,kinase,Q53R41,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL6066961,kinase,P12532,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL6067042,kinase,O43252,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL6067265,kinase,Q969Z0,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL6067300,kinase,Q8IWU2,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL6067305,kinase,Q3LXA3,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL6067330,kinase,Q9Y3F4,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL6082,kinase,P57059,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL6083,kinase,P57078,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL6123,kinase,Q9C098,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL6144,kinase,P43250,AlphaFold,85,94.22223529411764,
+CHEMBL6149,kinase,Q9Y2K2,AlphaFold,85,93.76964705882354,
+CHEMBL6150,kinase,Q8WU08,AlphaFold,85,94.94152941176468,
+CHEMBL6162,kinase,O94921,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL6166,kinase,O95819,AlphaFold,84,85.23357142857141,
+CHEMBL6167,kinase,O95835,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL6177,kinase,O95544,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL6186,kinase,Q96BR1,AlphaFold,0,,no binding site (API returned empty list)
+CHEMBL6191,kinase,Q56UN5,AlphaFold,0,,no binding site (API returned empty list)

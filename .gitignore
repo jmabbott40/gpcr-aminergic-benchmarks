@@ -9,6 +9,22 @@ data/processed/
 !data/kinase_reference/
 !data/kinase_reference/**
 
+# Plan 3 kinase ChEMBL→UniProt mapping (built during T14)
+!data/kinase_reference/chembl_to_uniprot.json
+
+# Plan 3 per-target pLDDT output (analysis artifact)
+!data/processed/v1/per_target_plddt.csv
+
+# Plan 3 per-target benchmark metrics for GPCR (mirrors data/kinase_reference/benchmark_v1/per_target/)
+!data/processed/v1/per_target/
+!data/processed/v1/per_target/**
+
+# GPCR protein sequences (Swiss-Prot canonical, used by T14 pLDDT pipeline)
+!data/processed/v1/protein_sequences.json
+
+# Plan 3 RNS pipeline working dir — cached AlphaFold PDBs and binding-site JSONs
+data/processed/v1/structure_cache/
+
 # Model checkpoints and predictions (regenerable artifacts)
 results/models/
 results/predictions/
